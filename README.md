@@ -1,7 +1,6 @@
-# Shell_C
+# Write a Shell in C
 
 ## Introduction
-
 
 ## Issue
 
